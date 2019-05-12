@@ -12,7 +12,20 @@ stipend: INR 3000
 contact:
 - <a target="_blank" href="mailto:kuku12320@gmail.com">Email ID</a> - kuku12320@gmail.com
 mentees:
-- 5 mentees will be accepted
+- Shaikh Md Nadeem Nizam
+- Swapnil Ghosh
+- Shubojit Das
+- Silu Panda
+- Abhinav Kumar
+- Ranjana B Kasangeri
+- Bhavya Jain
+- Mohd Zakir Hussain
+- Jishnu Basavaraju
+- Tanmay Mandal
+- Nimay Gupta
+- Dhananjay Singh
+- Karan Agarwalla
+- Bhavesh Patil
 ---
 
 ---
